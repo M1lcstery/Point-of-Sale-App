@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1069065982306",
+    "project_id": "m1-point-of-sale",
+    "storage_bucket": "m1-point-of-sale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069065982306:android:dc65a73a07871b58fedc3b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pos_revised"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069065982306-cf8dg7t1nb2v3fbcedj4po0ene1kkj22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBjcEWw_lXVyeqrmPvllJB-NUeO-kD1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069065982306-cf8dg7t1nb2v3fbcedj4po0ene1kkj22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069065982306-8s72a7103cjfe9q9onkq28gee7jm9epf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterPosRevised"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
